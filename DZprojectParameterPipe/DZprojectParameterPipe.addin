@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\DZprojectParameterPipe.dll"</Assembly>
+		<AddInId>B991C776-0501-470D-9215-11C0CDE18AD6</AddInId>
+		<FullClassName>DZprojectParameterPipe.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>DZ 3.4 Параметр Проекта</Text>
+	</AddIn>
+</RevitAddIns>
